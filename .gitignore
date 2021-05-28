@@ -1,0 +1,23 @@
+# bytecode
+target/
+
+# Intellij IDEA project files
+*.iml
+.idea/
+
+# Eclipse project files
+.classpath
+.externalToolBuilders
+.project
+.settings/
+
+# Log files
+logs/
+
+# Windows stuff
+Thumbs.db
+
+# Zendesk config file
+zendesk.properties
+
+
